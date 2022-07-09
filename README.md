@@ -1,2 +1,0 @@
-# myPortfolioPage
-Challenge 02
